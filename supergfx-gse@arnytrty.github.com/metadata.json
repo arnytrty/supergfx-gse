@@ -1,0 +1,10 @@
+{
+    "name": "supergfx-gse",
+    "description": "Simple gnome shell extension to switch between gpu modes with supergfxctl",
+    "uuid": "supergfx-gse@arnytrty.github.com",
+    "url": "https://github.com/arnytrty/supergfx-gse",
+    "version": 1.0,
+    "shell-version": [
+        "3.36"
+    ]
+}
